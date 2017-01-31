@@ -6,7 +6,7 @@ local CheckBoxTables = {
 		[3] = { "LazyPigCheckbox02", "Pass" }
 	},
 
-	["Zul'Gurub Roll Automation"] = {
+	["Zul'Gurub and Molten Core Roll Automation"] = {
 		[0] = "LazyPigCheckboxGroupZGRoll",
 		[1] = { "LazyPigCheckbox10", "Need" },
 		[2] = { "LazyPigCheckbox11", "Greed" },
