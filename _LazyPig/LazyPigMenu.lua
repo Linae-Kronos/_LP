@@ -229,7 +229,7 @@ function LazyPig_CreateOptionsFrame()
 	local str = "Green Items Roll [Ctrl-Alt]"
 	frame.cbgroup_greedroll = CheckBoxGroup(frame, 20, -45, str, CheckBoxTables[str])
 	
-	local str = "Zul'Gurub Roll Automation"
+	local str = "Zul'Gurub and Molten Core Roll Automation"
 	frame.cbgroup_zgroll = CheckBoxGroup(frame, 20, -107, str, CheckBoxTables[str])
 
 	local str = "World Chat Mute"
